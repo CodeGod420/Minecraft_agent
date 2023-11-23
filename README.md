@@ -1,6 +1,3 @@
-¡Claro! Aquí tienes un ejemplo de cómo podrías estructurar tu archivo README.md para explicar tu proyecto:
-
-markdown
 
 # MineRLTreechop Neural Network Training
 
